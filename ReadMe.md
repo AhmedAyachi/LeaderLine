@@ -1,6 +1,9 @@
 ## Announcement
-This project has been migrated to the [LinkerLine](https://github.com/AhmedAyachi/LinkerLine) project to be publishable on npm, so please use that instead as this repo is getting no more updates nor fixes. 
-This repo will be deleted at some point so make sure you update your dependencies.
+This project has been migrated to the [LinkerLine](https://github.com/AhmedAyachi/LinkerLine) project to be publishable on npm. You can now use the command below to use the project : 
+
+    npm install --save linkerline
+
+Please use that instead as this repo is getting no more updates nor fixes and it will be deleted at some point so make sure you update your dependencies.
 
 ## What is this ?
 This LeaderLine version is an extension to the original LeaderLine project https://github.com/anseki/leader-line v1.0.7.
