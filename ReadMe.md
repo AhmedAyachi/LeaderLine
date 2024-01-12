@@ -1,5 +1,13 @@
+## Announcement 
+This project has been migrated to the [LinkerLine](https://github.com/AhmedAyachi/LinkerLine) project to be publishable on npm. You can now use the command below to use the project : 
+
+    npm install --save linkerline
+
+Please use that instead as this repo is getting no more updates nor fixes and it will be deleted at some point so make sure you update your dependencies.
+If you're going to star the project, please make sure to star the **LinkerLine** repo **instead** of this one to get new updates on your feed if a new fix or feature is implemented.
+
 ## What is this ?
-This LeaderLine version is an extension to the original LeaderLine project https://github.com/anseki/leader-line v1.0.7 .
+This LeaderLine version is an extension to the original LeaderLine project https://github.com/anseki/leader-line v1.0.7.
 
 ## Why using it ?
 The original leaderline class lacks:
@@ -28,6 +36,8 @@ Changes :
  
 ## Illustration
 ![Illustration](https://github.com/AhmedAyachi/RepoIllustrations/blob/main/LeaderLine/Illustration.gif)
+
+Check [source code](https://github.com/AhmedAyachi/VritraExamples).
 
 ## How to use it ?
 Just install the current git repo using npm or any package manager of your choice :
